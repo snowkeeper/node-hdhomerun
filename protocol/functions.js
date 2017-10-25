@@ -98,7 +98,7 @@ function decode_pkt(pkt, msg) {
 			msg.error_message = err_msg;
 			break;
 		default:
-			throw new Error('unknown tag type: ' + tag);
+			//throw new Error('unknown tag type: ' + tag);
 		}
 	}
 
