@@ -1,6 +1,6 @@
 {
-  "name": "hdhomerun",
-  "version": "0.0.3",
+  "name": "ism-plugin-hdhr-driver",
+  "version": "0.1.0",
   "description": "low-level control of HDHomeRun TV tuner devices",
   "main": "index.js",
   "directories": {
@@ -8,7 +8,7 @@
     "test": "test"
   },
   "bugs": {
-    "url": "http://github.com/mharsch/node-hdhomerun/issues"
+    "url": "http://github.com/snowkeeper/node-hdhomerun/issues"
   },
   "dependencies": {
     "buffer-crc32": ">=0.2.1"
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mharsch/node-hdhomerun.git"
+    "url": "git://github.com/snowkeeper/node-hdhomerun.git"
   },
   "keywords": [
     "hdhomerun",
@@ -33,7 +33,7 @@
     "video",
     "dvr"
   ],
-  "author": "Michael Harsch <mike@harschsystems.com>",
+  "author": "snowkeeper",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
